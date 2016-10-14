@@ -93,5 +93,7 @@ export class AppComponent {
 
 }
 ```
+# Build
+Run `npm run build`
 
 See [angular2-progressbar-example](https://github.com/ksachdeva/angular2-progressbar-example) repository for the full example
